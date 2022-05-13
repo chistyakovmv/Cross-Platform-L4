@@ -12,7 +12,7 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
-  "author": "Yaroslava Miroshnykova",
+  "author": "Max Chistyakov",
   "license": "MIT",
   "config": {
     "forge": {
